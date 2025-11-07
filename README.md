@@ -12,13 +12,15 @@ This paper explores the temporal interference in a dual-task paradigm using a de
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
 
   <div style="text-align: center;">
-    <strong>Single Task (T) agent trajectory</strong><br>
-    <img src="agent_trajectories_gif/lstm_singletask_animation.gif" width="400"/>
+    <br>
+    <img src="agent_trajectories_gif/lstm_singletask_animation.gif" width="300"/>
+<strong>Single Task (T)</strong>
   </div>
 
   <div style="text-align: center;">
-    <strong>Dual Task (T+N) agent trajectory</strong><br>
-    <img src="agent_trajectories_gif/lstm_dualtask_animation.gif" width="400"/>
+    <br>
+    <img src="agent_trajectories_gif/lstm_dualtask_animation.gif" width="300"/>
+<strong>Dual Task (T+N)</strong>
   </div>
 
 </div>
