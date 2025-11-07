@@ -8,8 +8,11 @@ You can read the full paper here: https://arxiv.org/pdf/2511.01415
 This paper explores the temporal interference in a dual-task paradigm using a deep reinforcement learning (drl) setup. Experiments were conducted using a modified OverCooked game environment to study time-keeping in a drl agent performing an embedded time production task in a single task (T) and dual task (T+N) setup. We found that the dual-task agent exhibited significant overproduction in comparison to its single task counterpart. This finding is also consistent with human timing research. Further investigation is needed to understand the underlying time-keeping mechanisms in drl agents that lead to this behaviour. This study is only a small step towards exploring parallels between emergent DRL behavior and behavior observed in biological systems in order to facilitate a better understanding of both.
 
 **Single Task (T) agent trajectory** 
-![Single Task (T) Demo](agent_trajectories_gif/lstm_singletask_animation.gif) ![](agent_trajectories_gif%2Flegend_magma_vmin0_vmax5.png)
-                                                                                *Target duration = 9*
+![Single Task (T) Demo](agent_trajectories_gif/lstm_singletask_animation.gif) 
+
+<img src="agent_trajectories_gif/legend_magma_vmin0_vmax5.png" width="100" />  
+*Target duration = 9*
+
 **Dual Task (T+N) agent trajectory** 
 ![Dual Task (T+N) Demo](agent_trajectories_gif/lstm_dualtask_animation.gif)
 
