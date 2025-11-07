@@ -10,8 +10,8 @@ This paper explores the temporal interference in a dual-task paradigm using a de
 |Agent Trajectories (Target duration = 9) | |
 | Single Task (T)                                                  | Dual Task (T+N)                                                  |
 |------------------------------------------------------------------|------------------------------------------------------------------|
-| <img src="agent_trajectories_gif/lstm_singletask_animation.gif" width="400"/> | <img src="agent_trajectories_gif/lstm_dualtask_animation.gif" width="400"/> |
- | <img src="agent_trajectories_gif/legend_magma_vmin0_vmax5.gif" width="400"/>      | |
+| <img src="agent_trajectories_gif/lstm_singletask_animation.gif" width="500"/> | <img src="agent_trajectories_gif/lstm_dualtask_animation.gif" width="500"/> |
+ | <img src="agent_trajectories_gif/legend_magma_vmin0_vmax5.png" width="400"/>      | |
 
 ## Key Features
 - Uses a modified OverCooked environment to study temporal interference in a single and dual task setups using an embedded timing task.
