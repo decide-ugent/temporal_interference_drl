@@ -10,10 +10,11 @@ This paper explores the temporal interference in a dual-task paradigm using a de
 <p align="center"><strong>Agent Trajectories (Target duration = 10)</strong></p>
 
 | Single Task (T)                                                               | Dual Task (T+N)                                                             |
-|                                                                                 |                                            |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | <img src="agent_trajectories_gif/lstm_singletask_animation.gif" width="400"/> | <img src="agent_trajectories_gif/lstm_dualtask_animation.gif" width="400"/> |
 
-<div style="text-align: center; margin-top: 5px;">
+
+<div style="text-align: center; margin-top: 1px;">
   <img src="agent_trajectories_gif/legend_magma_vmin0_vmax5.png" width="400"/>
 </div>
 
